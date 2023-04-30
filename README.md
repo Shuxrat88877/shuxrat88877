@@ -1,7 +1,7 @@
 hi everyone i'm a shuxrat 👋
 
-- 🌱 I am currently studying at the front
-- 👯 I’m looking to collaborate
+- 🌱 I am currently studying at the frontend developer
+- 👯 I’m looking to collaborate 
 - 🏆 
 I want to become a successful person and a rich millionaire, or maybe a billionaire, the main thing is I have a goal, I will achieve my goal
 - 🏫Studying at school
