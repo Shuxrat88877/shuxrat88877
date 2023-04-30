@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Мой стек технологий
+![image](https://user-images.githubusercontent.com/117638741/235368481-c36256e8-4dfe-42e6-962b-7f7e46221266.png)
+![image](https://user-images.githubusercontent.com/117638741/235368494-0c60966b-6105-4966-9527-cc0af75a9395.png)
+![image](https://user-images.githubusercontent.com/117638741/235368501-5ac86e2c-7c8f-4dfb-92fc-f0ad36563e15.png)
