@@ -1,20 +1,17 @@
-### Hi there 👋
+hi everyone i'm a shuxrat 👋
 
-<!--
-**Shuxrat88877/shuxrat88877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🌱 I am currently studying at the front
+- 👯 I’m looking to collaborate
+- 🏆 
+I want to become a successful person and a rich millionaire, or maybe a billionaire, the main thing is I have a goal, I will achieve my goal
+- 🏫Studying at school
+- 📫 How to reach me:
+-  instagram: @shuxrat_._._
+-  telagram: @shuxrat88877
 - ⚡ Fun fact: ...
 -->
-Мой стек технологий
+
+My technology stack
 
 ![image](https://user-images.githubusercontent.com/117638741/235368481-c36256e8-4dfe-42e6-962b-7f7e46221266.png)
 ![image](https://user-images.githubusercontent.com/117638741/235368494-0c60966b-6105-4966-9527-cc0af75a9395.png)
