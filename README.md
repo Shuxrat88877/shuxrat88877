@@ -8,7 +8,7 @@ I want to become a successful person and a rich millionaire, or maybe a billiona
 
 My technology stack
 
-![image](https://user-images.githubusercontent.com/117638741/235368481-c36256e8-4dfe-42e6-962b-7f7e46221266.png)
-![image](https://user-images.githubusercontent.com/117638741/235368494-0c60966b-6105-4966-9527-cc0af75a9395.png)
-![image](https://user-images.githubusercontent.com/117638741/235368501-5ac86e2c-7c8f-4dfb-92fc-f0ad36563e15.png)
+![html5-original](https://github.com/Shuxrat88877/shuxrat88877/assets/117638741/b323168d-0ed6-4de4-a7d1-f2ca53fa8fd5)
+![css3-original](https://github.com/Shuxrat88877/shuxrat88877/assets/117638741/4c1e9eae-4fad-4ea3-84fc-f4e0f559c57d)
+![javascript-original](https://github.com/Shuxrat88877/shuxrat88877/assets/117638741/aabf3691-15d5-4a56-b037-a3ebe0170fa5)
 
