@@ -7,6 +7,5 @@ I want to become a successful person and a rich millionaire, or maybe a billiona
 -  telagram: @shuxrat88877
 
 My technology stack
-![image](https://github.com/Shuxrat88877/shuxrat88877/assets/117638741/31f08b3e-24a4-41ff-a5b8-17158a8c4adc)
 
 
