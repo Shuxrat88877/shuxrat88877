@@ -1,7 +1,9 @@
 Hi, I'm Shuxrta Jo'raxolov 👋
 
 📫 How to reach me:
+
 instagram: @shuxrat_._._0
+
 telagram: @shuxrat88877
 
 technologies:
