@@ -7,8 +7,8 @@ I want to become a successful person and a rich millionaire, or maybe a billiona
 -  telagram: @shuxrat88877
 
 My technology stack
-
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+https://www.flaticon.com/free-icon/html_1051277?term=html&page=1&position=1&origin=tag&related_id=1051277
+[![forthebadge]([https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com](https://www.flaticon.com/free-icon/html_1051277?term=html&page=1&position=1&origin=tag&related_id=1051277))
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
