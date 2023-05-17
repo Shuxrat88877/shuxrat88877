@@ -12,7 +12,6 @@ technologies:
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)   
 [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 
-Built With
 ______________________________________________________________________________________________________________________________________________________________
 My personal portfolio ///////.com which features some of my github projects as well as my resume and technical skills.
 
