@@ -7,10 +7,6 @@ I want to become a successful person and a rich millionaire, or maybe a billiona
 -  telagram: @shuxrat88877
 
 My technology stack
-<!-- ![image](https://github.com/Shuxrat88877/shuxrat88877/assets/117638741/e0c611e6-f163-4e49-b36f-14885215d94d) -->
-![image](https://github.com/Shuxrat88877/shuxrat88877/assets/117638741/670e9c57-a9ea-4f67-b30d-6a671738b52c)
+![image](https://github.com/Shuxrat88877/shuxrat88877/assets/117638741/31f08b3e-24a4-41ff-a5b8-17158a8c4adc)
 
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
